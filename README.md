@@ -1,6 +1,6 @@
 # ReduxSimpleStarter
 
-Course take in [Redux](https://www.udemy.com/react-redux/)
+Course take in [Udemy, React and Redux](https://www.udemy.com/react-redux/)
 
 ### Reac Redux
 
